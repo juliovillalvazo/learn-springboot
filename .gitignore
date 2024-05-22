@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# Spring Boot
+*.log
+*.tmp
+
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+out/
